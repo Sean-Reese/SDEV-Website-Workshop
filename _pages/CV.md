@@ -3,5 +3,11 @@ permalink: /CV/
 title: "CV"
 #For your CV, take the following section "./d/_____COPY THIS STUFF_____/" and replace that section in the URL below.
 ---
-[Download Here](cv.png)
+
+<!-- Code for uploaded PDF version -->
+[Download CV](../assets/images/cv.png)
+
+<iframe src="../assets/pdf/cv.png" width="100%" height="800px" style="border: none;"></iframe>
+
+<!-- Code for Google Docs Version -->
 <div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 129.4118%;"><iframe src="https://docs.google.com/document/d/1LqdKPuWvWHZiUCJh3a7aDd2djeG5QwA0QDZFa6bj_m4/preview?usp=embed_googleplus" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen></iframe></div>
